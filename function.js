@@ -56,6 +56,6 @@
 //     return firstNumber + secondNumber + thirdNumber;
 // }
 
-const contacts = [{ name: 'Mg Mg', age: 23 }, { name: "Kyaw Kyaw", age: 11 }];
-console.log(contacts.sort((first, second) => first.name.localeCompare(second.name)));
+ 
+
 

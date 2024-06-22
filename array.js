@@ -150,17 +150,21 @@ const females = [" Mya Mya" , "Hla Hla"];
 // trimAndUpperCaseForMale();
 // trimAndUpperCaseForFemale();
 
-console.log(trimAndUpperCaseForAll(males, true, "MG "));
-console.log(trimAndUpperCaseForAll(females, false, "MA "));
-console.log('-----');
-console.log(males);
-console.log(females);
+// console.log(trimAndUpperCaseForAll(males, true, "MG "));
+// console.log(trimAndUpperCaseForAll(females, false, "MA "));
+// console.log('-----');
+// console.log(males);
+// console.log(females);
 
 // function cleanMyName(name) {
 //   return name.trim().toUpperCase();
 // }
 
 // console.log(cleanMyName("    Kyaw Kyaw "));
+
+
+
+// names.map(callbackFn);
 
 
 
