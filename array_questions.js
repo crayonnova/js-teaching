@@ -103,6 +103,15 @@ function calculateGender(genderType) {
 const maleCount = calculateGender("Male"); // 3
 const femaleCount = calculateGender("Female"); // 1
 
-console.log(`Male: ${maleCount}, Female: ${femaleCount}`); // Male: 3, Female 1
+// console.log(`Male: ${maleCount}, Female: ${femaleCount}`); // Male: 3, Female 1
+
+
 
 // console.log(`Male: ${filteredSchoolWithMale.length}, Female ${filteredSchoolWithFemale.length}`);
+
+
+
+
+// student.nameWithPrefix = student.gender == "Male" ? "Mg "+ student.name : "Ma "+ student.name;
+
+// console.log(student);
